@@ -1,0 +1,43 @@
+.navbar.is-link {
+    background-color: seagreen;
+}
+.navbar-menu {
+    background-color: seagreen;
+}
+.hero.is-info {
+    background-color: seagreen;
+}
+
+
+
+.animate__animated.animate__lightSpeedInRight {
+    --animate-duration: 7s;
+    --animate-delay: 8s;
+  }
+  
+.section-heading {
+    display: flex;
+    justify-content: center;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+.card-image {
+    
+        opacity: 100;
+    }
+
+    .card-image img:hover {
+    
+        opacity: .5;
+    }
