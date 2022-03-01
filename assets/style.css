@@ -25,9 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Barlow Condensed", sans-serif;
-  font-family: "Open Sans Condensed", sans-serif;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .card-image {
@@ -47,4 +45,22 @@ h6 {
   top: 13px;
   left: 16px;
   font-size: 18px;
+}
+
+.sidebar-personal-info-section {
+  position: relative;
+}
+
+.changing-keyword {
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 1s, visibility 1s;
+  visibility: collapse;
+  position: absolute;
+  padding-left: 0.2rem;
+}
+
+.shown {
+  opacity: 1;
+  visibility: visible;
 }
