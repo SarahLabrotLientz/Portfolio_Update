@@ -21,3 +21,15 @@ Please refer to my github links for my collaborators information. I love all my 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Want to see my old portfolio?
+
+[CLICK HERE](https://sarahlabrotlientz.github.io/Updated_Portfolio/)
+
+## Want to see my old, old portfolio?
+
+[CLICK HERE](https://sarahlabrotlientz.github.io/Portfolio_Page/)
+
+## Want to a good laugh?
+
+[MY FIRST PORTFOLIO EVER](https://sarahlabrotlientz.github.io/prework-about-me/)
